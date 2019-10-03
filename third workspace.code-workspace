@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "To Do"
+		},
+		{
+			"path": "01jsObjects"
+		},
+		{
+			"path": "02jsObjects-Playlist"
+		},
+		{
+			"path": "03jsObjects-MediaPlaylist"
+		},
+		{
+			"path": "04modulePattern"
+		},
+		{
+			"path": "05ES52015"
+		},
+		{
+			"path": "06modulePattern2"
+		},
+		{
+			"path": "moduleImportExport"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "06modulePattern2"
+	}
+}
